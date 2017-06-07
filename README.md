@@ -1,0 +1,1 @@
+This repo will receive a very simple react boilerplate

@@ -1,0 +1,29 @@
+{
+  "name": "quick-react-start",
+  "version": "1.0.0",
+  "description": "A very simple react boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-brito/quick-react-start.git"
+  },
+  "author": "Gabriel Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-brito/quick-react-start/issues"
+  },
+  "homepage": "https://github.com/gabriel-brito/quick-react-start#readme",
+  "devDependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
