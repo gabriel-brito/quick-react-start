@@ -26,7 +26,6 @@ npm i
 
 Ok! Now you have a complete structure with ReactJs, Webpack and Sass!
 
-To use Sass on your project, you need to import your .scss or your .sass file on *"/assets/style.scss"* and run the *sass --watch style.scss:style.css* comand to make your CSS file.
+To use Sass on your project, you need to import your .scss or your .sass file on *"/assets/style.scss"* and run the *sass --watch style.scss:style.css* command to make your CSS file.
 
 After all the changes in your project, write *webpack* on your command line. Your project will be compiled and refreshed with all the changes.
-
